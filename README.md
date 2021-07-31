@@ -1,2 +1,1 @@
-# -PYTHON_DEEPDIVE
-Sorting test
+# -PYTHON_DEEPDIVE Sorting test
