@@ -10,8 +10,8 @@ In the second compartment : File type. "w" Writing file
 write to row ..
 
 ## aplication class
-*constructor : Contains three lists
-
+* constructor : Contains three lists
+** id_array :
 
 
 
