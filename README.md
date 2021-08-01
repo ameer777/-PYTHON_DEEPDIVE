@@ -11,9 +11,9 @@ write to row ..
 
 ## aplication class
 * constructor : Contains three lists
- id_array : List of all IDs
- name_array : List of all names
- Orders_array : list of lists that contains {id,Order list}
+   * id_array : List of all IDs
+   * name_array : List of all names
+   * Orders_array : list of lists that contains {id,Order list}
 
 
 
