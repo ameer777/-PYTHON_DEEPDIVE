@@ -20,5 +20,17 @@ write to row ..
   * The form of writing in the file is problematic, between each line we skip one and do not write anything there , 
     My solution is to refer only full rows through the definition of variable C and then in each iteration check if it is even or incorrect and finally promote it.
   * At the end of the list size will be the amount of IDs in the file
-
+  
+* init_nameArray function : 
+  * Initialize name_array list
+  * In a similar way of function init_idArray I go through the full lines and fill out the list of names
+  * Use C in a similar way to the previous one
+  * At the end of the list size will be the amount of names in the file
+  
+* init_Orders function :
+  * Initialize Orders_array list
+  * The first cell will contains id and in the second cell will contains the lists for this id/
+  * Set up 4 boolean variables to check if Melino has already been promoted to a cell and is not empty (fill in the cell first or add another list to the cell).
+  * Read from the file and in each iteration fill the cells in the lists so that in the first cell there will be an identity card of the first person and a list of all his         orders.
+  * At the end of the list size will be the amount of IDs*orders in the file
 
